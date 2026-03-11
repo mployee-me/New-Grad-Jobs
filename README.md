@@ -6,7 +6,7 @@
 ![Level: New Graduate](https://img.shields.io/badge/Level:_New_Graduate-orange?style=for-the-badge&logo=education)
 
 ### 📅 Last Updated
-**Tuesday, March 10, 2026 at 06:05 AM EDT**
+**Wednesday, March 11, 2026 at 06:06 AM EDT**
 
 If you're graduating in 2025 or 2026, this repository is built for you.
 
@@ -95,7 +95,7 @@ color : white;
 
 ## 🎓 New Grad Jobs (All Roles)
 
-> 💼 **59** positions available
+> 💼 **64** positions available
 
 <table width="100%">
 <thead>
@@ -109,417 +109,452 @@ color : white;
 </thead>
 <tbody>
 <tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/perpay-inc">Perpay Inc.</a></td>
+<td>Software Engineer, New Grad</td>
+<td>📍 Philadelphia, PA</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/software-engineer-new-grad-in-philadelphia-pa-at-perpay-inc-4355383969/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/cleveland-clinic">Cleveland Clinic</a></td>
+<td>New Grad RN - Women's Health Unit</td>
+<td>📍 Cleveland, OH</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-grad-rn-womens-health-unit-in-cleveland-oh-at-cleveland-clinic-4382464320/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/basepowercompany">Base Power Company</a></td>
+<td>Member Experience (New Grad)</td>
+<td>📍 Austin, TX</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/member-experience-new-grad-in-austin-tx-at-base-power-company-4383799813/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/basepowercompany">Base Power Company</a></td>
+<td>Member Experience (New Grad)</td>
+<td>📍 Austin, TX</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/member-experience-new-grad-in-austin-tx-at-base-power-company-4383799813/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/basepowercompany">Base Power Company</a></td>
+<td>Member Experience (New Grad)</td>
+<td>📍 Austin, TX</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/member-experience-new-grad-in-austin-tx-at-base-power-company-4383799813/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/lensa">Lensa</a></td>
+<td>Renewals Representative - Entry Level - NEW GRADS WELCOME TO APPLY!</td>
+<td>📍 Santa Monica, CA</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/renewals-representative-entry-level-new-grads-welcome-to-apply-in-santa-monica-ca-at-lensa-4383749066/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/lensa">Lensa</a></td>
+<td>Renewals Representative - Entry Level - NEW GRADS WELCOME TO APPLY!</td>
+<td>📍 Santa Monica, CA</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/renewals-representative-entry-level-new-grads-welcome-to-apply-in-santa-monica-ca-at-lensa-4383749066/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/lensa">Lensa</a></td>
+<td>Renewals Representative - Entry Level - NEW GRADS WELCOME TO APPLY!</td>
+<td>📍 Santa Monica, CA</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/renewals-representative-entry-level-new-grads-welcome-to-apply-in-santa-monica-ca-at-lensa-4383749066/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/morgan-&-morgan-llc">Morgan & Morgan, P.A.</a></td>
+<td>Seeking Paralegal New Grads!</td>
+<td>📍 Alpharetta, GA</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/seeking-paralegal-new-grads-in-alpharetta-ga-at-morgan-morgan-pa-4382050717/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/morgan-&-morgan-llc">Morgan & Morgan, P.A.</a></td>
+<td>Seeking Paralegal New Grads!</td>
+<td>📍 Alpharetta, GA</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/seeking-paralegal-new-grads-in-alpharetta-ga-at-morgan-morgan-pa-4382050717/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/susquehanna-international-group">Susquehanna International Group</a></td>
+<td>Quantitative Strategy Developer - New Grad</td>
+<td>📍 Philadelphia, PA</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/quantitative-strategy-developer-new-grad-in-philadelphia-pa-at-susquehanna-international-group-4320152787/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/susquehanna-international-group">Susquehanna International Group</a></td>
+<td>Quantitative Strategy Developer - New Grad</td>
+<td>📍 Philadelphia, PA</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/quantitative-strategy-developer-new-grad-in-philadelphia-pa-at-susquehanna-international-group-4320152787/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/interim-healthcare">Interim HealthCare Inc.</a></td>
+<td>New Graduate LPN/RN</td>
+<td>📍 Walton, KY</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-graduate-lpnrn-in-walton-ky-at-interim-healthcare-inc-4383481857/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/intermountain-health">Intermountain Health</a></td>
+<td>New Graduate RN Ortho Trauma Oncology</td>
+<td>📍 Provo, UT</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-graduate-rn-ortho-trauma-oncology-in-provo-ut-at-intermountain-health-4382014818/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/intermountain-health">Intermountain Health</a></td>
+<td>New Graduate RN Ortho Trauma Oncology</td>
+<td>📍 Provo, UT</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-graduate-rn-ortho-trauma-oncology-in-provo-ut-at-intermountain-health-4382014818/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/intermountain-health">Intermountain Health</a></td>
+<td>New Grad RN Dialysis</td>
+<td>📍 Murray, UT</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-grad-rn-dialysis-in-murray-ut-at-intermountain-health-4382026435/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/intermountain-health">Intermountain Health</a></td>
+<td>Registered Nurse New Graduate Intensive Care Unit</td>
+<td>📍 Ogden, UT</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/registered-nurse-new-graduate-intensive-care-unit-in-ogden-ut-at-intermountain-health-4382033112/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/mainehealth">MaineHealth</a></td>
+<td>Clinical Nurse (RN) - Inpatient Psychiatry (P6) New Graduates Welcome</td>
+<td>📍 Portland, OR</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/clinical-nurse-rn-inpatient-psychiatry-p6-new-graduates-welcome-in-portland-or-at-mainehealth-4382260776/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/mainehealth">MaineHealth</a></td>
+<td>Clinical Nurse (RN) - Inpatient Psychiatry (P6) New Graduates Welcome</td>
+<td>📍 Portland, OR</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/clinical-nurse-rn-inpatient-psychiatry-p6-new-graduates-welcome-in-portland-or-at-mainehealth-4382260776/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/monarchrecruiters">Monarch Recruiters</a></td>
+<td>Full Stack Engineer (New Grad)</td>
+<td>📍 San Francisco, CA</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/full-stack-engineer-new-grad-in-san-francisco-ca-at-monarch-recruiters-4380380329/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/monarchrecruiters">Monarch Recruiters</a></td>
+<td>Full Stack Engineer (New Grad)</td>
+<td>📍 San Francisco, CA</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/full-stack-engineer-new-grad-in-san-francisco-ca-at-monarch-recruiters-4380380329/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/ayahealthcare">Aya Healthcare</a></td>
+<td>Permanent Staff New Graduate RN job in Albuquerque, NM - Make $31 to $31 per hour</td>
+<td>📍 Albuquerque, NM</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/permanent-staff-new-graduate-rn-job-in-albuquerque-nm-make-31-to-31-per-hour-in-albuquerque-nm-at-aya-healthcare-4383418640/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/ayahealthcare">Aya Healthcare</a></td>
+<td>Permanent Staff New Graduate RN job in Albuquerque, NM - Make $31 to $31 per hour</td>
+<td>📍 Albuquerque, NM</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/permanent-staff-new-graduate-rn-job-in-albuquerque-nm-make-31-to-31-per-hour-in-albuquerque-nm-at-aya-healthcare-4383418640/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/peregrine-technologies">Peregrine</a></td>
+<td>Deployment Strategist, New Graduate</td>
+<td>📍 San Francisco, CA</td>
+<td>2d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/deployment-strategist-new-graduate-in-san-francisco-ca-at-peregrine-4382223207/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/peregrine-technologies">Peregrine</a></td>
+<td>Deployment Strategist, New Graduate</td>
+<td>📍 San Francisco, CA</td>
+<td>2d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/deployment-strategist-new-graduate-in-san-francisco-ca-at-peregrine-4382223207/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/staffing-as-a-mission">Staffing as a Mission, LLC (SaaM)</a></td>
+<td>Healthcare Recruiter (New Graduates)</td>
+<td>📍 Nashville, TN</td>
+<td>2d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/healthcare-recruiter-new-graduates-in-nashville-tn-at-staffing-as-a-mission-llc-saam-4383366279/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/staffing-as-a-mission">Staffing as a Mission, LLC (SaaM)</a></td>
+<td>Healthcare Recruiter (New Graduates)</td>
+<td>📍 Nashville, TN</td>
+<td>2d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/healthcare-recruiter-new-graduates-in-nashville-tn-at-staffing-as-a-mission-llc-saam-4383366279/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/staffing-as-a-mission">Staffing as a Mission, LLC (SaaM)</a></td>
+<td>Healthcare Recruiter (New Graduates)</td>
+<td>📍 Nashville, TN</td>
+<td>2d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/healthcare-recruiter-new-graduates-in-nashville-tn-at-staffing-as-a-mission-llc-saam-4383366279/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/edkey">edkey</a></td>
+<td>Fullstack Software Engineer (New Grad)</td>
+<td>📍 San Francisco, CA</td>
+<td>2d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/fullstack-software-engineer-new-grad-in-san-francisco-ca-at-edkey-4382203194/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/loop-payments">Loop</a></td>
 <td>2026 New Grad | Software Engineer, AI</td>
 <td>📍 San Francisco, CA</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/2026-new-grad-software-engineer-ai-in-san-francisco-ca-at-loop-4365601350/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/loop-payments">Loop</a></td>
 <td>2026 New Grad | Software Engineer, AI</td>
 <td>📍 San Francisco, CA</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/2026-new-grad-software-engineer-ai-in-san-francisco-ca-at-loop-4365601350/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/edkey">edkey</a></td>
+<td>Fullstack Software Engineer (New Grad)</td>
+<td>📍 San Francisco, CA</td>
+<td>2d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/fullstack-software-engineer-new-grad-in-san-francisco-ca-at-edkey-4382203194/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/convenientmd-urgent-care">ConvenientMD</a></td>
 <td>New Grad - Physician Assistant (PA) - Urgent Care</td>
 <td>📍 Bangor, MI</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-grad-physician-assistant-pa-urgent-care-in-bangor-mi-at-convenientmd-4381751145/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/convenientmd-urgent-care">ConvenientMD</a></td>
 <td>New Grad - Family Nurse Practitioner (FNP) - Urgent Care</td>
 <td>📍 Bangor, MI</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-grad-family-nurse-practitioner-fnp-urgent-care-in-bangor-mi-at-convenientmd-4381747377/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/convenientmd-urgent-care">ConvenientMD</a></td>
 <td>New Grad - Physician Assistant (PA) - Urgent Care</td>
 <td>📍 Bangor, MI</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-grad-physician-assistant-pa-urgent-care-in-bangor-mi-at-convenientmd-4381751145/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/convenientmd-urgent-care">ConvenientMD</a></td>
 <td>New Grad - Family Nurse Practitioner (FNP) - Urgent Care</td>
 <td>📍 Bangor, MI</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-grad-family-nurse-practitioner-fnp-urgent-care-in-bangor-mi-at-convenientmd-4381747377/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/convenientmd-urgent-care">ConvenientMD</a></td>
 <td>New Grad - Physician Assistant (PA) - Urgent Care</td>
 <td>📍 Bangor, MI</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-grad-physician-assistant-pa-urgent-care-in-bangor-mi-at-convenientmd-4381751145/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/convenientmd-urgent-care">ConvenientMD</a></td>
 <td>New Grad - Family Nurse Practitioner (FNP) - Urgent Care</td>
 <td>📍 Bangor, MI</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-grad-family-nurse-practitioner-fnp-urgent-care-in-bangor-mi-at-convenientmd-4381747377/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/innovations-psi">Innovations PSI</a></td>
 <td>New Grads with Previous Finance Experience or Internships</td>
 <td>📍 San Francisco, CA</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-grads-with-previous-finance-experience-or-internships-in-san-francisco-ca-at-innovations-psi-4363044613/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/stripe">Stripe</a></td>
 <td>PhD Machine Learning Engineer, New Grad</td>
 <td>📍 San Francisco, CA</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/phd-machine-learning-engineer-new-grad-in-san-francisco-ca-at-stripe-4294963029/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/select-specialty-hospital">Select Specialty Hospital</a></td>
 <td>Registered Nurse (RN) - New Graduate</td>
 <td>📍 Jackson, TN</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/registered-nurse-rn-new-graduate-in-jackson-tn-at-select-specialty-hospital-4382134590/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/select-specialty-hospital">Select Specialty Hospital</a></td>
 <td>Registered Nurse (RN) - New Graduate</td>
 <td>📍 Jackson, TN</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/registered-nurse-rn-new-graduate-in-jackson-tn-at-select-specialty-hospital-4382134590/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/jobs-via-dice">Jobs via Dice</a></td>
 <td>New Graduate Engineer, Software (Starlink)</td>
 <td>📍 Sunnyvale, CA</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-graduate-engineer-software-starlink-in-sunnyvale-ca-at-jobs-via-dice-4381825687/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/select-specialty-hospital">Select Specialty Hospital</a></td>
 <td>Registered Nurse (RN) - New Graduate</td>
 <td>📍 Jackson, TN</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/registered-nurse-rn-new-graduate-in-jackson-tn-at-select-specialty-hospital-4382134590/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/column-bank">Column</a></td>
 <td>Payment Operations (New Grad 2026)</td>
 <td>📍 San Francisco, CA</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/payment-operations-new-grad-2026-in-san-francisco-ca-at-column-4144967743/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/nuro-inc.">Nuro</a></td>
 <td>Software Engineer, Autonomy-New Grad</td>
 <td>📍 Mountain View, CA</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/software-engineer-autonomy-new-grad-in-mountain-view-ca-at-nuro-4327790555/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/amrize">Amrize</a></td>
 <td>Electrical/Systems Engineer (New Graduate)</td>
 <td>📍 Whitehall, MI</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/electricalsystems-engineer-new-graduate-in-whitehall-mi-at-amrize-4351087095/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/column-bank">Column</a></td>
 <td>Payment Operations (New Grad 2026)</td>
 <td>📍 San Francisco, CA</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/payment-operations-new-grad-2026-in-san-francisco-ca-at-column-4144967743/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/column-bank">Column</a></td>
 <td>Payment Operations (New Grad 2026)</td>
 <td>📍 San Francisco, CA</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/payment-operations-new-grad-2026-in-san-francisco-ca-at-column-4144967743/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/nuro-inc.">Nuro</a></td>
 <td>Software Engineer, Autonomy-New Grad</td>
 <td>📍 Mountain View, CA</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/software-engineer-autonomy-new-grad-in-mountain-view-ca-at-nuro-4327790555/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/amrize">Amrize</a></td>
 <td>Electrical/Systems Engineer (New Graduate)</td>
 <td>📍 Whitehall, MI</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/electricalsystems-engineer-new-graduate-in-whitehall-mi-at-amrize-4351087095/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/lensa">Lensa</a></td>
 <td>RN - New Grad Opportunities</td>
 <td>📍 New Bedford, MA</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/rn-new-grad-opportunities-in-new-bedford-ma-at-lensa-4382907828/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/lensa">Lensa</a></td>
 <td>AI/Machine Learning Engineering Intern (MS/Ph.D. New Grad)</td>
 <td>📍 Mountain View, CA</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/aimachine-learning-engineering-intern-msphd-new-grad-in-mountain-view-ca-at-lensa-4382904803/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/lensa">Lensa</a></td>
 <td>New Graduate Engineer, Software (Starlink)</td>
 <td>📍 Sunnyvale, CA</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-graduate-engineer-software-starlink-in-sunnyvale-ca-at-lensa-4382900902/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/lensa">Lensa</a></td>
 <td>AI/Machine Learning Engineering Intern (MS/Ph.D. New Grad)</td>
 <td>📍 Mountain View, CA</td>
-<td>1d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/aimachine-learning-engineering-intern-msphd-new-grad-in-mountain-view-ca-at-lensa-4382904803/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/lpl-financial">LPL Financial</a></td>
-<td>New Grad 2026 - Technology, Infrastructure & Operations</td>
-<td>📍 San Diego, CA</td>
 <td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-grad-2026-technology-infrastructure-operations-in-san-diego-ca-at-lpl-financial-4367499527/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/aimachine-learning-engineering-intern-msphd-new-grad-in-mountain-view-ca-at-lensa-4382904803/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/jas-recruitment-llc">JAS Recruitment</a></td>
 <td>Associate Veterinarian - Flexible Scheduling / New Grads Welcomed!</td>
 <td>📍 Cleveland, OH</td>
-<td>2d ago</td>
+<td>3d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/associate-veterinarian-flexible-scheduling-new-grads-welcomed-in-cleveland-oh-at-jas-recruitment-4207574107/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/mainehealth">MaineHealth</a></td>
 <td>Clinical Nurse (RN) - Neurosurgical/Trauma/IMC Unit (R6) - New Graduates Welcome</td>
 <td>📍 Portland, OR</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/clinical-nurse-rn-neurosurgicaltraumaimc-unit-r6-new-graduates-welcome-in-portland-or-at-mainehealth-4381512759/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/mainehealth">MaineHealth</a></td>
-<td>Clinical Nurse (RN) - Neurosurgical/Trauma/IMC Unit (R6) - New Graduates Welcome</td>
-<td>📍 Portland, OR</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/clinical-nurse-rn-neurosurgicaltraumaimc-unit-r6-new-graduates-welcome-in-portland-or-at-mainehealth-4381512759/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/mainehealth">MaineHealth</a></td>
-<td>Clinical Nurse (RN) - IMC/General Surgical Unit (R3) - New Graduates Welcome</td>
-<td>📍 Portland, OR</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/clinical-nurse-rn-imcgeneral-surgical-unit-r3-new-graduates-welcome-in-portland-or-at-mainehealth-4381506924/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/mainehealth">MaineHealth</a></td>
-<td>Clinical Nurse (RN) - Neurosurgical/Trauma/IMC Unit (R6) - New Graduates Welcome</td>
-<td>📍 Portland, OR</td>
-<td>2d ago</td>
+<td>3d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/clinical-nurse-rn-neurosurgicaltraumaimc-unit-r6-new-graduates-welcome-in-portland-or-at-mainehealth-4381512759/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/mainehealth">MaineHealth</a></td>
 <td>Clinical Nurse (RN) - IMC/General Surgical Unit (R3) - New Graduates Welcome</td>
 <td>📍 Portland, OR</td>
-<td>2d ago</td>
+<td>3d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/clinical-nurse-rn-imcgeneral-surgical-unit-r3-new-graduates-welcome-in-portland-or-at-mainehealth-4381506924/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/mainehealth">MaineHealth</a></td>
-<td>Clinical Nurse (RN) - IMC/General Surgical Unit (R3) - New Graduates Welcome</td>
-<td>📍 Portland, OR</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/clinical-nurse-rn-imcgeneral-surgical-unit-r3-new-graduates-welcome-in-portland-or-at-mainehealth-4381506924/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/imeg-corp">IMEG</a></td>
-<td>Civil Engineering New Grad | Burlington, MA</td>
-<td>📍 Burlington, NC</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/civil-engineering-new-grad-burlington-ma-in-burlington-nc-at-imeg-4322981761/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/imeg-corp">IMEG</a></td>
-<td>Civil Engineering New Grad | Burlington, MA</td>
-<td>📍 Burlington, NC</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/civil-engineering-new-grad-burlington-ma-in-burlington-nc-at-imeg-4322981761/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/imeg-corp">IMEG</a></td>
-<td>Civil Engineering New Grad | Burlington, MA</td>
-<td>📍 Burlington, NC</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/civil-engineering-new-grad-burlington-ma-in-burlington-nc-at-imeg-4322981761/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/consumer-directed-services-inc.">CONSUMER DIRECTED SERVICES INC.</a></td>
 <td>Caregiver - New Graduates Welcome - Sign-On Bonus</td>
 <td>📍 Hilo, HI</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/caregiver-new-graduates-welcome-sign-on-bonus-in-hilo-hi-at-consumer-directed-services-inc-4381398479/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/bold-steps-behavioral-health">Bold Steps Behavioral Health</a></td>
-<td>Radiology Technologists - New Graduates 2026</td>
-<td>📍 Burlington, NC</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/radiology-technologists-new-graduates-2026-in-burlington-nc-at-bold-steps-behavioral-health-4381507101/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/bold-steps-behavioral-health">Bold Steps Behavioral Health</a></td>
-<td>Radiology Technologists - New Graduates 2026</td>
-<td>📍 Burlington, NC</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/radiology-technologists-new-graduates-2026-in-burlington-nc-at-bold-steps-behavioral-health-4381507101/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/bold-steps-behavioral-health">Bold Steps Behavioral Health</a></td>
-<td>Radiology Technologists - New Graduates 2026</td>
-<td>📍 Burlington, NC</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/radiology-technologists-new-graduates-2026-in-burlington-nc-at-bold-steps-behavioral-health-4381507101/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/consumer-directed-services-inc.">CONSUMER DIRECTED SERVICES INC.</a></td>
-<td>Caregiver - New Graduates Welcome - Sign-On Bonus</td>
-<td>📍 Hilo, HI</td>
-<td>2d ago</td>
+<td>3d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/caregiver-new-graduates-welcome-sign-on-bonus-in-hilo-hi-at-consumer-directed-services-inc-4381398479/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/consumer-directed-services-inc.">CONSUMER DIRECTED SERVICES INC.</a></td>
 <td>Caregiver - New Graduates Welcome - Sign-On Bonus</td>
 <td>📍 Hilo, HI</td>
-<td>2d ago</td>
+<td>3d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/caregiver-new-graduates-welcome-sign-on-bonus-in-hilo-hi-at-consumer-directed-services-inc-4381398479/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/intermountain-health">Intermountain Health</a></td>
-<td>Registered Nurse New Graduate Emergency Department</td>
-<td>📍 Riverton, NJ</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/registered-nurse-new-graduate-emergency-department-in-riverton-nj-at-intermountain-health-4381222522/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/intermountain-health">Intermountain Health</a></td>
-<td>Registered Nurse New Graduate Emergency Department</td>
-<td>📍 Riverton, NJ</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/registered-nurse-new-graduate-emergency-department-in-riverton-nj-at-intermountain-health-4381222522/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/mainehealth">MaineHealth</a></td>
-<td>Clinical Nurse (RN) - General Surgical Unit (P3CD) - New Graduates Welcome</td>
-<td>📍 Portland, OR</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/clinical-nurse-rn-general-surgical-unit-p3cd-new-graduates-welcome-in-portland-or-at-mainehealth-4381390339/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/mainehealth">MaineHealth</a></td>
 <td>Clinical Nurse (RN) - IMC/General Surgical Unit (R3) - New Graduates Welcome</td>
 <td>📍 Portland, OR</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/clinical-nurse-rn-imcgeneral-surgical-unit-r3-new-graduates-welcome-in-portland-or-at-mainehealth-4381386443/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/mainehealth">MaineHealth</a></td>
-<td>Clinical Nurse (RN) - General Surgical Unit (P3CD) - New Graduates Welcome</td>
-<td>📍 Portland, OR</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/clinical-nurse-rn-general-surgical-unit-p3cd-new-graduates-welcome-in-portland-or-at-mainehealth-4381390339/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/mainehealth">MaineHealth</a></td>
-<td>Clinical Nurse (RN) - IMC/General Surgical Unit (R3) - New Graduates Welcome</td>
-<td>📍 Portland, OR</td>
-<td>2d ago</td>
+<td>3d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/clinical-nurse-rn-imcgeneral-surgical-unit-r3-new-graduates-welcome-in-portland-or-at-mainehealth-4381386443/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/mainehealth">MaineHealth</a></td>
-<td>Clinical Nurse (RN) - IMC/General Surgical Unit (R3) - New Graduates Welcome</td>
-<td>📍 Portland, OR</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/clinical-nurse-rn-imcgeneral-surgical-unit-r3-new-graduates-welcome-in-portland-or-at-mainehealth-4381386443/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/mainehealth">MaineHealth</a></td>
 <td>Clinical Nurse (RN) - General Surgical Unit (P3CD) - New Graduates Welcome</td>
 <td>📍 Portland, OR</td>
-<td>2d ago</td>
+<td>3d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/clinical-nurse-rn-general-surgical-unit-p3cd-new-graduates-welcome-in-portland-or-at-mainehealth-4381390339/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/bayada-home-health-care">BAYADA Home Health Care</a></td>
 <td>New Grad Registered Nurse (RN)</td>
 <td>📍 Hamilton, AL</td>
-<td>3d ago</td>
+<td>4d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-grad-registered-nurse-rn-in-hamilton-al-at-bayada-home-health-care-4381230014/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/bayada-home-health-care">BAYADA Home Health Care</a></td>
 <td>New Grad Licensed Practical Nurse (LPN)</td>
 <td>📍 Hamilton, AL</td>
-<td>3d ago</td>
+<td>4d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-grad-licensed-practical-nurse-lpn-in-hamilton-al-at-bayada-home-health-care-4381214785/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/protouch-staffing">Protouch Staffing</a></td>
-<td>Dentist - Wilmington, NC - Accepting New Grads</td>
-<td>📍 Wilmington, CA</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/dentist-wilmington-nc-accepting-new-grads-in-wilmington-ca-at-protouch-staffing-4341794559/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/samsara">Samsara</a></td>
-<td>Account Development Representative (New Grad)</td>
-<td>📍 Phoenix, AZ</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/account-development-representative-new-grad-in-phoenix-az-at-samsara-4364426434/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/health-jeanie">Health Jeanie</a></td>
-<td>New Grad Registered Nurse (RN) Opportunities</td>
-<td>📍 Honolulu, HI</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-grad-registered-nurse-rn-opportunities-in-honolulu-hi-at-health-jeanie-4381330525/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/health-jeanie">Health Jeanie</a></td>
-<td>New Grad Registered Nurse (RN) Opportunities</td>
-<td>📍 Honolulu, HI</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-grad-registered-nurse-rn-opportunities-in-honolulu-hi-at-health-jeanie-4381330525/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>New Graduate Nurse Resident</td>
-<td>📍 Houston, TX</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-graduate-nurse-resident-in-houston-tx-at-lensa-4382323630/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/blackwomensmhi">Black Women's Mental Health Institute</a></td>
-<td>Caregiver - New Grads Welcome - Sign-On Bonus</td>
-<td>📍 Pearl City, HI</td>
-<td>4d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/caregiver-new-grads-welcome-sign-on-bonus-in-pearl-city-hi-at-black-womens-mental-health-institute-4381077918/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/unity-point-health">UnityPoint Health</a></td>
-<td>Registered Nurse Residency (New Grad)</td>
-<td>📍 Des Moines, IA</td>
-<td>4d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/registered-nurse-residency-new-grad-in-des-moines-ia-at-unitypoint-health-4380281654/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 </tbody>
 </table>
