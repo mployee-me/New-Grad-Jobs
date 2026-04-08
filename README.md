@@ -6,7 +6,7 @@
 ![Level: New Graduate](https://img.shields.io/badge/Level:_New_Graduate-orange?style=for-the-badge&logo=education)
 
 ### 📅 Last Updated
-**Tuesday, April 7, 2026 at 06:32 AM EDT**
+**Wednesday, April 8, 2026 at 06:35 AM EDT**
 
 If you're graduating in 2025 or 2026, this repository is built for you.
 
@@ -95,7 +95,7 @@ color : white;
 
 ## 🎓 New Grad Jobs (All Roles)
 
-> 💼 **41** positions available
+> 💼 **33** positions available
 
 <table width="100%">
 <thead>
@@ -109,262 +109,206 @@ color : white;
 </thead>
 <tbody>
 <tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://in.linkedin.com/company/quik-hire-staffing">Quik Hire Staffing</a></td>
+<td>Electrical Engineer, New Graduate</td>
+<td>📍 Bloomsdale, MO</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/electrical-engineer-new-graduate-in-bloomsdale-mo-at-quik-hire-staffing-4398503924/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/act-now-physical-therapy-and-concussion-management">ACT NOW PHYSICAL THERAPY AND CONCUSSION MANAGEMENT</a></td>
+<td>Physical Therapist (DPT) – New Grads Welcome!</td>
+<td>📍 Whiting, IN</td>
+<td>2d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/physical-therapist-dpt-new-grads-welcome-in-whiting-in-at-act-now-physical-therapy-and-concussion-management-4387153363/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/loop-payments">Loop</a></td>
+<td>2026 New Grad | Software Engineer, Full-Stack</td>
+<td>📍 San Francisco, CA</td>
+<td>2d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/2026-new-grad-software-engineer-full-stack-in-san-francisco-ca-at-loop-4398089710/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/autel-intelligent-technology">Avant Robotics USA</a></td>
+<td>Robotics Engineer — Humanoid Robotics (New Grad)</td>
+<td>📍 Boston, MA</td>
+<td>2d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/robotics-engineer-humanoid-robotics-new-grad-in-boston-ma-at-avant-robotics-usa-4394732069/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/autel-intelligent-technology">Avant Robotics USA</a></td>
+<td>Robotics Engineer — Humanoid Robotics (New Grad)</td>
+<td>📍 Boston, MA</td>
+<td>2d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/robotics-engineer-humanoid-robotics-new-grad-in-boston-ma-at-avant-robotics-usa-4394732069/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/autel-intelligent-technology">Avant Robotics USA</a></td>
+<td>Robotics Engineer — Humanoid Robotics (New Grad)</td>
+<td>📍 Boston, MA</td>
+<td>2d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/robotics-engineer-humanoid-robotics-new-grad-in-boston-ma-at-avant-robotics-usa-4394732069/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/zaniboni-lighting">Zaniboni Lighting</a></td>
 <td>Electronics Engineer New Grad</td>
 <td>📍 Clearwater, FL</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/electronics-engineer-new-grad-in-clearwater-fl-at-zaniboni-lighting-4398035524/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/zaniboni-lighting">Zaniboni Lighting</a></td>
 <td>Electronics Engineer New Grad</td>
 <td>📍 Clearwater, FL</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/electronics-engineer-new-grad-in-clearwater-fl-at-zaniboni-lighting-4398035524/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/talentburst">TalentBurst, an Inc 5000 company</a></td>
 <td>RN New Grad: Med Surg</td>
 <td>📍 Charleston, SC</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/rn-new-grad-med-surg-in-charleston-sc-at-talentburst-an-inc-5000-company-4370542776/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/talentburst">TalentBurst, an Inc 5000 company</a></td>
 <td>RN New Grad: Med Surg</td>
 <td>📍 Charleston, SC</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/rn-new-grad-med-surg-in-charleston-sc-at-talentburst-an-inc-5000-company-4370542776/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/talentburst">TalentBurst, an Inc 5000 company</a></td>
 <td>RN New Grad: Med Surg</td>
 <td>📍 Charleston, SC</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/rn-new-grad-med-surg-in-charleston-sc-at-talentburst-an-inc-5000-company-4370542776/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://in.linkedin.com/company/quik-hire-staffing">Quik Hire Staffing</a></td>
 <td>Electrical Engineer, New Graduate</td>
 <td>📍 Alpena, MI</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/electrical-engineer-new-graduate-in-alpena-mi-at-quik-hire-staffing-4397792129/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://in.linkedin.com/company/quik-hire-staffing">Quik Hire Staffing</a></td>
 <td>Electrical Engineer, New Graduate</td>
 <td>📍 Bloomsdale, MO</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/electrical-engineer-new-graduate-in-bloomsdale-mo-at-quik-hire-staffing-4397786411/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://in.linkedin.com/company/quik-hire-staffing">Quik Hire Staffing</a></td>
 <td>Electrical Engineer, New Graduate</td>
 <td>📍 Bloomsdale, MO</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/electrical-engineer-new-graduate-in-bloomsdale-mo-at-quik-hire-staffing-4397786411/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://in.linkedin.com/company/quik-hire-staffing">Quik Hire Staffing</a></td>
 <td>Electrical Engineer, New Graduate</td>
 <td>📍 Bloomsdale, MO</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/electrical-engineer-new-graduate-in-bloomsdale-mo-at-quik-hire-staffing-4397786411/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/bubblynet">BubblyNet</a></td>
 <td>Electronics Engineer New Grad</td>
 <td>📍 Clearwater, FL</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/electronics-engineer-new-grad-in-clearwater-fl-at-bubblynet-4397933783/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/bubblynet">BubblyNet</a></td>
 <td>Electronics Engineer New Grad</td>
 <td>📍 Clearwater, FL</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/electronics-engineer-new-grad-in-clearwater-fl-at-bubblynet-4397933783/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/bubblynet">BubblyNet</a></td>
 <td>Electronics Engineer New Grad</td>
 <td>📍 Clearwater, FL</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/electronics-engineer-new-grad-in-clearwater-fl-at-bubblynet-4397933783/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/healthecareers-network">Health eCareers</a></td>
 <td>New Grads or Experienced OB/GYNS</td>
 <td>📍 Covington, VA</td>
-<td>2d ago</td>
+<td>3d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-grads-or-experienced-obgyns-in-covington-va-at-health-ecareers-4397723910/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/uvmhealth">University of Vermont Health</a></td>
-<td>New Graduate Nurse Residency - Vermont & New York Summer 2026 Cohorts</td>
-<td>📍 Burlington, NC</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-graduate-nurse-residency-vermont-new-york-summer-2026-cohorts-in-burlington-nc-at-university-of-vermont-health-4394420436/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/uvmhealth">University of Vermont Health</a></td>
-<td>New Graduate Nurse Residency - Vermont & New York Summer 2026 Cohorts</td>
-<td>📍 Burlington, NC</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-graduate-nurse-residency-vermont-new-york-summer-2026-cohorts-in-burlington-nc-at-university-of-vermont-health-4394420436/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/uvmhealth">University of Vermont Health</a></td>
-<td>New Graduate Nurse Residency - Vermont & New York Summer 2026 Cohorts</td>
-<td>📍 Burlington, NC</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-graduate-nurse-residency-vermont-new-york-summer-2026-cohorts-in-burlington-nc-at-university-of-vermont-health-4394420436/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/uvmhealth">University of Vermont Health</a></td>
-<td>Radiology Technologists - New Graduates 2026</td>
-<td>📍 Burlington, NC</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/radiology-technologists-new-graduates-2026-in-burlington-nc-at-university-of-vermont-health-4394405564/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/uvmhealth">University of Vermont Health</a></td>
-<td>Radiology Technologists - New Graduates 2026</td>
-<td>📍 Burlington, NC</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/radiology-technologists-new-graduates-2026-in-burlington-nc-at-university-of-vermont-health-4394405564/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/uvmhealth">University of Vermont Health</a></td>
-<td>Radiology Technologists - New Graduates 2026</td>
-<td>📍 Burlington, NC</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/radiology-technologists-new-graduates-2026-in-burlington-nc-at-university-of-vermont-health-4394405564/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://in.linkedin.com/company/quik-hire-staffing">Quik Hire Staffing</a></td>
 <td>Electrical Engineer, New Graduate</td>
 <td>📍 Bloomsdale, MO</td>
-<td>2d ago</td>
+<td>3d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/electrical-engineer-new-graduate-in-bloomsdale-mo-at-quik-hire-staffing-4397705912/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://in.linkedin.com/company/quik-hire-staffing">Quik Hire Staffing</a></td>
 <td>Electrical Engineer, New Graduate</td>
 <td>📍 Bloomsdale, MO</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/electrical-engineer-new-graduate-in-bloomsdale-mo-at-quik-hire-staffing-4397705912/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://in.linkedin.com/company/quik-hire-staffing">Quik Hire Staffing</a></td>
-<td>Electrical Engineer, New Graduate</td>
-<td>📍 Alpena, MI</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/electrical-engineer-new-graduate-in-alpena-mi-at-quik-hire-staffing-4397712632/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://in.linkedin.com/company/quik-hire-staffing">Quik Hire Staffing</a></td>
-<td>Electrical Engineer, New Graduate</td>
-<td>📍 Bloomsdale, MO</td>
-<td>2d ago</td>
+<td>3d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/electrical-engineer-new-graduate-in-bloomsdale-mo-at-quik-hire-staffing-4397705912/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://in.linkedin.com/company/quik-hire-staffing">Quik Hire Staffing</a></td>
 <td>Electrical Engineer, New Graduate</td>
 <td>📍 Alpena, MI</td>
-<td>2d ago</td>
+<td>3d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/electrical-engineer-new-graduate-in-alpena-mi-at-quik-hire-staffing-4397712632/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://in.linkedin.com/company/quik-hire-staffing">Quik Hire Staffing</a></td>
 <td>Electrical Engineer, New Graduate</td>
 <td>📍 Alpena, MI</td>
-<td>2d ago</td>
+<td>3d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/electrical-engineer-new-graduate-in-alpena-mi-at-quik-hire-staffing-4397712632/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/tuftsmedicine">Tufts Medicine</a></td>
 <td>Radiologic Technologist, New Grad May 2026, Sign-on Bonus Eligible</td>
 <td>📍 Boston, MA</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/radiologic-technologist-new-grad-may-2026-sign-on-bonus-eligible-in-boston-ma-at-tufts-medicine-4397716278/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/tuftsmedicine">Tufts Medicine</a></td>
-<td>Radiologic Technologist, New Grad May 2026, Sign-on Bonus Eligible</td>
-<td>📍 Boston, MA</td>
-<td>2d ago</td>
+<td>3d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/radiologic-technologist-new-grad-may-2026-sign-on-bonus-eligible-in-boston-ma-at-tufts-medicine-4397716278/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/banner-health">Banner Health</a></td>
 <td>Registered Nurse New Graduate Medical Surgical Oncology</td>
 <td>📍 Phoenix, AZ</td>
-<td>2d ago</td>
+<td>3d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/registered-nurse-new-graduate-medical-surgical-oncology-in-phoenix-az-at-banner-health-4397867600/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/banner-health">Banner Health</a></td>
 <td>Registered Nurse New Graduate Medical Surgical Oncology</td>
 <td>📍 Phoenix, AZ</td>
-<td>2d ago</td>
+<td>3d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/registered-nurse-new-graduate-medical-surgical-oncology-in-phoenix-az-at-banner-health-4397867600/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/evolve-therapy-services-llc">Evolve Therapy Services, LLC</a></td>
 <td>Speech Language Pathologist (SLP) In House (New Grad Friendly)</td>
 <td>📍 Suring, WI</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/speech-language-pathologist-slp-in-house-new-grad-friendly-in-suring-wi-at-evolve-therapy-services-llc-4394294292/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/evolve-therapy-services-llc">Evolve Therapy Services, LLC</a></td>
-<td>Speech Language Pathologist (SLP) In House (New Grad Friendly)</td>
-<td>📍 Suring, WI</td>
-<td>3d ago</td>
+<td>4d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/speech-language-pathologist-slp-in-house-new-grad-friendly-in-suring-wi-at-evolve-therapy-services-llc-4394294292/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/evolve-therapy-services-llc">Evolve Therapy Services, LLC</a></td>
-<td>Speech Language Pathologist (SLP) In House (New Grad Friendly)</td>
-<td>📍 Suring, WI</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/speech-language-pathologist-slp-in-house-new-grad-friendly-in-suring-wi-at-evolve-therapy-services-llc-4394294292/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://in.linkedin.com/company/quik-hire-staffing">Quik Hire Staffing</a></td>
-<td>Electrical Engineer, New Graduate</td>
-<td>📍 Bloomsdale, MO</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/electrical-engineer-new-graduate-in-bloomsdale-mo-at-quik-hire-staffing-4397429531/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://in.linkedin.com/company/quik-hire-staffing">Quik Hire Staffing</a></td>
-<td>Electrical Engineer, New Graduate</td>
-<td>📍 Alpena, MI</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/electrical-engineer-new-graduate-in-alpena-mi-at-quik-hire-staffing-4397428636/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://in.linkedin.com/company/quik-hire-staffing">Quik Hire Staffing</a></td>
-<td>Electrical Engineer, New Graduate</td>
-<td>📍 Bloomsdale, MO</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/electrical-engineer-new-graduate-in-bloomsdale-mo-at-quik-hire-staffing-4397429531/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/bgeinc">BGE, Inc.</a></td>
 <td>HOUSTON - Construction Management, New Grad</td>
 <td>📍 Houston, TX</td>
-<td>5d ago</td>
+<td>6d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/houston-construction-management-new-grad-in-houston-tx-at-bge-inc-4395394646/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/crbgrp">CRB</a></td>
 <td>New Grad Automation Engineer I (Denver)</td>
 <td>📍 Denver, CO</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-grad-automation-engineer-i-denver-in-denver-co-at-crb-4364943630/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
@@ -392,7 +336,7 @@ color : white;
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/stripe">Stripe</a></td>
 <td>PhD Machine Learning Engineer, New Grad</td>
 <td>📍 San Francisco, CA</td>
-<td>4w ago</td>
+<td>1mo ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/phd-machine-learning-engineer-new-grad-in-san-francisco-ca-at-stripe-4294963029/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 </tbody>
