@@ -6,7 +6,7 @@
 ![Level: New Graduate](https://img.shields.io/badge/Level:_New_Graduate-orange?style=for-the-badge&logo=education)
 
 ### 📅 Last Updated
-**Monday, April 20, 2026 at 07:02 AM EDT**
+**Tuesday, April 21, 2026 at 06:49 AM EDT**
 
 If you're graduating in 2025 or 2026, this repository is built for you.
 
@@ -95,7 +95,7 @@ color : white;
 
 ## 🎓 New Grad Jobs (All Roles)
 
-> 💼 **57** positions available
+> 💼 **15** positions available
 
 <table width="100%">
 <thead>
@@ -109,340 +109,46 @@ color : white;
 </thead>
 <tbody>
 <tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/pls-logistics-services">PLS Logistics Services</a></td>
+<td>New Grad Account Executive | Entry-Level Sales & Logistics | $52K Base + Commission |</td>
+<td>📍 Nashville, TN</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-grad-account-executive-entry-level-sales-logistics-52k-base-commission--in-nashville-tn-at-pls-logistics-services-4395066190/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/pls-logistics-services">PLS Logistics Services</a></td>
+<td>New Grad Account Executive | Entry-Level Sales & Logistics | $52K Base + Commission |</td>
+<td>📍 Nashville, TN</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-grad-account-executive-entry-level-sales-logistics-52k-base-commission--in-nashville-tn-at-pls-logistics-services-4395066190/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/pls-logistics-services">PLS Logistics Services</a></td>
+<td>New Grad Account Executive | Entry-Level Sales & Logistics | $52K Base + Commission |</td>
+<td>📍 Nashville, TN</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-grad-account-executive-entry-level-sales-logistics-52k-base-commission--in-nashville-tn-at-pls-logistics-services-4395066190/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/jobot">Jobot</a></td>
 <td>Speech Language Pathologist - New Grads Accepted</td>
 <td>📍 Independence, KY</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/speech-language-pathologist-new-grads-accepted-in-independence-ky-at-jobot-4393383646/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/jobot">Jobot</a></td>
 <td>Speech Language Pathologist - New Grads Accepted</td>
 <td>📍 Independence, KY</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/speech-language-pathologist-new-grads-accepted-in-independence-ky-at-jobot-4393383646/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/jobot">Jobot</a></td>
 <td>Speech Language Pathologist - New Grads Accepted</td>
 <td>📍 Independence, KY</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/speech-language-pathologist-new-grads-accepted-in-independence-ky-at-jobot-4393383646/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/north-lake-physical-therapy-oregon">North Lake Physical Therapy</a></td>
-<td>Physical Therapist - New Grads Welcome to Apply</td>
-<td>📍 Lake Oswego, OR</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/physical-therapist-new-grads-welcome-to-apply-in-lake-oswego-or-at-north-lake-physical-therapy-4400848398/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/north-lake-physical-therapy-oregon">North Lake Physical Therapy</a></td>
-<td>Physical Therapist - New Grads Welcome to Apply</td>
-<td>📍 Oregon City, OR</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/physical-therapist-new-grads-welcome-to-apply-in-oregon-city-or-at-north-lake-physical-therapy-4400853351/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/north-lake-physical-therapy-oregon">North Lake Physical Therapy</a></td>
-<td>Physical Therapist - New Grads Welcome to Apply</td>
-<td>📍 Oregon City, OR</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/physical-therapist-new-grads-welcome-to-apply-in-oregon-city-or-at-north-lake-physical-therapy-4400853351/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/north-lake-physical-therapy-oregon">North Lake Physical Therapy</a></td>
-<td>Physical Therapist - New Grads Welcome to Apply</td>
-<td>📍 Oregon City, OR</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/physical-therapist-new-grads-welcome-to-apply-in-oregon-city-or-at-north-lake-physical-therapy-4400853351/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/north-lake-physical-therapy-oregon">North Lake Physical Therapy</a></td>
-<td>Physical Therapist - New Grads Welcome to Apply</td>
-<td>📍 Lake Oswego, OR</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/physical-therapist-new-grads-welcome-to-apply-in-lake-oswego-or-at-north-lake-physical-therapy-4400848398/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/north-lake-physical-therapy-oregon">North Lake Physical Therapy</a></td>
-<td>Physical Therapist - New Grads Welcome to Apply</td>
-<td>📍 Lake Oswego, OR</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/physical-therapist-new-grads-welcome-to-apply-in-lake-oswego-or-at-north-lake-physical-therapy-4400848398/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/crbgrp">CRB</a></td>
-<td>New Grad Architectural Designer I (Philadelphia)</td>
-<td>📍 Philadelphia, PA</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-grad-architectural-designer-i-philadelphia-in-philadelphia-pa-at-crb-4364932248/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/crbgrp">CRB</a></td>
-<td>New Grad Architectural Designer I (Philadelphia)</td>
-<td>📍 Philadelphia, PA</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-grad-architectural-designer-i-philadelphia-in-philadelphia-pa-at-crb-4364932248/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/crbgrp">CRB</a></td>
-<td>New Grad Architectural Designer I (Philadelphia)</td>
-<td>📍 Philadelphia, PA</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-grad-architectural-designer-i-philadelphia-in-philadelphia-pa-at-crb-4364932248/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/stripe">Stripe</a></td>
-<td>Product Manager: New Grad Accelerator</td>
-<td>📍 San Francisco, CA</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/product-manager-new-grad-accelerator-in-san-francisco-ca-at-stripe-4403155816/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/stripe">Stripe</a></td>
-<td>Product Manager: New Grad Accelerator</td>
-<td>📍 San Francisco, CA</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/product-manager-new-grad-accelerator-in-san-francisco-ca-at-stripe-4403155816/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/stripe">Stripe</a></td>
-<td>Product Manager: New Grad Accelerator</td>
-<td>📍 San Francisco, CA</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/product-manager-new-grad-accelerator-in-san-francisco-ca-at-stripe-4403155816/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/sprouts-farmers-market">Sprouts Farmers Market</a></td>
-<td>New Graduate - Assistant Store Manager</td>
-<td>📍 Las Vegas, NV</td>
-<td>4d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-graduate-assistant-store-manager-in-las-vegas-nv-at-sprouts-farmers-market-4402322681/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/sprouts-farmers-market">Sprouts Farmers Market</a></td>
-<td>New Graduate - Assistant Store Manager</td>
-<td>📍 Las Vegas, NV</td>
-<td>4d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-graduate-assistant-store-manager-in-las-vegas-nv-at-sprouts-farmers-market-4402322681/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/sprouts-farmers-market">Sprouts Farmers Market</a></td>
-<td>New Graduate - Assistant Store Manager</td>
-<td>📍 Las Vegas, NV</td>
-<td>4d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-graduate-assistant-store-manager-in-las-vegas-nv-at-sprouts-farmers-market-4402322681/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/np-hire">NPHire</a></td>
-<td>Nurse Practitioner – Outpatient Urgent Care (New Grads Welcome – Full Benefits)</td>
-<td>📍 US</td>
-<td>4d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/nurse-practitioner-outpatient-urgent-care-new-grads-welcome-full-benefits-in-us-at-nphire-4402321203/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/np-hire">NPHire</a></td>
-<td>Nurse Practitioner – Outpatient Urgent Care (Full Benefits - Flexible - New Grads Welcome)</td>
-<td>📍 US</td>
-<td>4d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/nurse-practitioner-outpatient-urgent-care-full-benefits-flexible-new-grads-welcome-in-us-at-nphire-4402317197/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/np-hire">NPHire</a></td>
-<td>Nurse Practitioner – Outpatient Urgent Care (New Grads Welcome – Full Benefits)</td>
-<td>📍 US</td>
-<td>4d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/nurse-practitioner-outpatient-urgent-care-new-grads-welcome-full-benefits-in-us-at-nphire-4402321203/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/np-hire">NPHire</a></td>
-<td>Nurse Practitioner – Outpatient Urgent Care (Full Benefits - Flexible - New Grads Welcome)</td>
-<td>📍 US</td>
-<td>4d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/nurse-practitioner-outpatient-urgent-care-full-benefits-flexible-new-grads-welcome-in-us-at-nphire-4402317197/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/np-hire">NPHire</a></td>
-<td>Nurse Practitioner – Outpatient Urgent Care (Full Benefits - Flexible - New Grads Welcome)</td>
-<td>📍 US</td>
-<td>4d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/nurse-practitioner-outpatient-urgent-care-full-benefits-flexible-new-grads-welcome-in-us-at-nphire-4402317197/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/np-hire">NPHire</a></td>
-<td>Nurse Practitioner – Urgent Care | New Grads Welcome | Rotating Schedule | Full Benefits</td>
-<td>📍 US</td>
-<td>4d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/nurse-practitioner-urgent-care-new-grads-welcome-rotating-schedule-full-benefits-in-us-at-nphire-4402323186/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/np-hire">NPHire</a></td>
-<td>Nurse Practitioner – Outpatient Urgent Care (New Grads Welcome – Full Benefits)</td>
-<td>📍 US</td>
-<td>4d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/nurse-practitioner-outpatient-urgent-care-new-grads-welcome-full-benefits-in-us-at-nphire-4402321203/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/np-hire">NPHire</a></td>
-<td>Outpatient Urgent Care NP ($85/hr + Full Benefits – New Grads Welcome)</td>
-<td>📍 US</td>
-<td>4d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/outpatient-urgent-care-np-85hr-full-benefits-new-grads-welcome-in-us-at-nphire-4402326126/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/np-hire">NPHire</a></td>
-<td>Nurse Practitioner – Urgent Care | New Grads Welcome | Rotating Schedule | Full Benefits</td>
-<td>📍 US</td>
-<td>4d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/nurse-practitioner-urgent-care-new-grads-welcome-rotating-schedule-full-benefits-in-us-at-nphire-4402323186/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/np-hire">NPHire</a></td>
-<td>Outpatient Nurse Practitioner – Urgent Care | New Grads | $85/hr + Full Benefits | Outpatient</td>
-<td>📍 US</td>
-<td>4d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/outpatient-nurse-practitioner-urgent-care-new-grads-85hr-full-benefits-outpatient-in-us-at-nphire-4402317173/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/np-hire">NPHire</a></td>
-<td>Nurse Practitioner – Urgent Care | New Grads Welcome | Rotating Schedule | Full Benefits</td>
-<td>📍 US</td>
-<td>4d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/nurse-practitioner-urgent-care-new-grads-welcome-rotating-schedule-full-benefits-in-us-at-nphire-4402323186/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/np-hire">NPHire</a></td>
-<td>Outpatient Nurse Practitioner – Urgent Care | New Grads | $85/hr + Full Benefits | Outpatient</td>
-<td>📍 US</td>
-<td>4d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/outpatient-nurse-practitioner-urgent-care-new-grads-85hr-full-benefits-outpatient-in-us-at-nphire-4402317173/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/np-hire">NPHire</a></td>
-<td>Outpatient Nurse Practitioner – Urgent Care | New Grads | $85/hr + Full Benefits | Outpatient</td>
-<td>📍 US</td>
-<td>4d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/outpatient-nurse-practitioner-urgent-care-new-grads-85hr-full-benefits-outpatient-in-us-at-nphire-4402317173/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/np-hire">NPHire</a></td>
-<td>FNP – Outpatient Urgent Care | New Grads Welcome | Bonus | Full Benefits</td>
-<td>📍 US</td>
-<td>4d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/fnp-outpatient-urgent-care-new-grads-welcome-bonus-full-benefits-in-us-at-nphire-4402197574/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/np-hire">NPHire</a></td>
-<td>Outpatient Urgent Care NP ($85/hr + Full Benefits – New Grads Welcome)</td>
-<td>📍 US</td>
-<td>4d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/outpatient-urgent-care-np-85hr-full-benefits-new-grads-welcome-in-us-at-nphire-4402326126/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/np-hire">NPHire</a></td>
-<td>Outpatient Urgent Care NP ($85/hr + Full Benefits – New Grads Welcome)</td>
-<td>📍 US</td>
-<td>4d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/outpatient-urgent-care-np-85hr-full-benefits-new-grads-welcome-in-us-at-nphire-4402326126/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/np-hire">NPHire</a></td>
-<td>FNP – Outpatient Urgent Care | New Grads Welcome | Bonus | Full Benefits</td>
-<td>📍 US</td>
-<td>4d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/fnp-outpatient-urgent-care-new-grads-welcome-bonus-full-benefits-in-us-at-nphire-4402197574/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/np-hire">NPHire</a></td>
-<td>FNP – Outpatient Urgent Care | New Grads Welcome | Bonus | Full Benefits</td>
-<td>📍 US</td>
-<td>4d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/fnp-outpatient-urgent-care-new-grads-welcome-bonus-full-benefits-in-us-at-nphire-4402197574/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/np-hire">NPHire</a></td>
-<td>Nurse Practitioner | New Grads Welcome | $85/hr + Bonus | Full Benefits | Flexible Schedule</td>
-<td>📍 US</td>
-<td>4d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/nurse-practitioner-new-grads-welcome-85hr-bonus-full-benefits-flexible-schedule-in-us-at-nphire-4402193635/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/np-hire">NPHire</a></td>
-<td>Nurse Practitioner – Outpatient Urgent Care | New Grads Welcome | $80/hr + Bonus | Full Benefits</td>
-<td>📍 US</td>
-<td>4d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/nurse-practitioner-outpatient-urgent-care-new-grads-welcome-80hr-bonus-full-benefits-in-us-at-nphire-4402301458/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/np-hire">NPHire</a></td>
-<td>Nurse Practitioner – New Grads Welcome | Flexible Hours | Full Benefits + Bonus</td>
-<td>📍 US</td>
-<td>4d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/nurse-practitioner-new-grads-welcome-flexible-hours-full-benefits-bonus-in-us-at-nphire-4402303343/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/np-hire">NPHire</a></td>
-<td>Nurse Practitioner – Outpatient Urgent Care (New Grads Welcome – Full Benefits)</td>
-<td>📍 US</td>
-<td>4d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/nurse-practitioner-outpatient-urgent-care-new-grads-welcome-full-benefits-in-us-at-nphire-4402303321/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/np-hire">NPHire</a></td>
-<td>Nurse Practitioner | New Grads Welcome | $85/hr + Bonus | Full Benefits | Flexible Schedule</td>
-<td>📍 US</td>
-<td>4d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/nurse-practitioner-new-grads-welcome-85hr-bonus-full-benefits-flexible-schedule-in-us-at-nphire-4402193635/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/np-hire">NPHire</a></td>
-<td>Nurse Practitioner – Outpatient Urgent Care (New Grads Welcome – Full Benefits)</td>
-<td>📍 US</td>
-<td>4d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/nurse-practitioner-outpatient-urgent-care-new-grads-welcome-full-benefits-in-us-at-nphire-4402303321/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/np-hire">NPHire</a></td>
-<td>Nurse Practitioner – Outpatient Urgent Care (New Grads Welcome – Full Benefits)</td>
-<td>📍 US</td>
-<td>4d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/nurse-practitioner-outpatient-urgent-care-new-grads-welcome-full-benefits-in-us-at-nphire-4402303321/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/np-hire">NPHire</a></td>
-<td>Nurse Practitioner – Outpatient Urgent Care | New Grads Welcome | $80/hr + Bonus | Full Benefits</td>
-<td>📍 US</td>
-<td>4d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/nurse-practitioner-outpatient-urgent-care-new-grads-welcome-80hr-bonus-full-benefits-in-us-at-nphire-4402301458/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/np-hire">NPHire</a></td>
-<td>Nurse Practitioner – Outpatient Urgent Care | New Grads Welcome | $80/hr + Bonus | Full Benefits</td>
-<td>📍 US</td>
-<td>4d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/nurse-practitioner-outpatient-urgent-care-new-grads-welcome-80hr-bonus-full-benefits-in-us-at-nphire-4402301458/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/np-hire">NPHire</a></td>
-<td>Nurse Practitioner | New Grads Welcome | $85/hr + Bonus | Full Benefits | Flexible Schedule</td>
-<td>📍 US</td>
-<td>4d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/nurse-practitioner-new-grads-welcome-85hr-bonus-full-benefits-flexible-schedule-in-us-at-nphire-4402193635/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/np-hire">NPHire</a></td>
-<td>Nurse Practitioner – New Grads Welcome | Flexible Hours | Full Benefits + Bonus</td>
-<td>📍 US</td>
-<td>4d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/nurse-practitioner-new-grads-welcome-flexible-hours-full-benefits-bonus-in-us-at-nphire-4402303343/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/np-hire">NPHire</a></td>
-<td>Nurse Practitioner – New Grads Welcome | Flexible Hours | Full Benefits + Bonus</td>
-<td>📍 US</td>
-<td>4d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/nurse-practitioner-new-grads-welcome-flexible-hours-full-benefits-bonus-in-us-at-nphire-4402303343/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/morgan-&-morgan-llc">Morgan & Morgan, P.A.</a></td>
