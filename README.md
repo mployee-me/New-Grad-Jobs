@@ -6,7 +6,7 @@
 ![Level: New Graduate](https://img.shields.io/badge/Level:_New_Graduate-orange?style=for-the-badge&logo=education)
 
 ### 📅 Last Updated
-**Tuesday, April 28, 2026 at 07:20 AM EDT**
+**Wednesday, April 29, 2026 at 07:13 AM EDT**
 
 If you're graduating in 2025 or 2026, this repository is built for you.
 
@@ -95,7 +95,7 @@ color : white;
 
 ## 🎓 New Grad Jobs (All Roles)
 
-> 💼 **28** positions available
+> 💼 **14** positions available
 
 <table width="100%">
 <thead>
@@ -112,147 +112,49 @@ color : white;
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/xyntek-inc-">Xyntek Inc</a></td>
 <td>New Graduate Engineer</td>
 <td>📍 Newtown, PA</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-graduate-engineer-in-newtown-pa-at-xyntek-inc-4406212225/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/xyntek-inc-">Xyntek Inc</a></td>
 <td>New Graduate Engineer</td>
 <td>📍 Newtown, PA</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-graduate-engineer-in-newtown-pa-at-xyntek-inc-4406212225/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/xyntek-inc-">Xyntek Inc</a></td>
 <td>New Graduate Engineer</td>
 <td>📍 Newtown, PA</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-graduate-engineer-in-newtown-pa-at-xyntek-inc-4406212225/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/mercy">Mercy</a></td>
 <td>RN - Ortho/Spine FT Nights (New Graduate Nurses Welcome to Apply)</td>
 <td>📍 Oklahoma City, OK</td>
-<td>2d ago</td>
+<td>3d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/rn-orthospine-ft-nights-new-graduate-nurses-welcome-to-apply-in-oklahoma-city-ok-at-mercy-4394281053/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/mercy">Mercy</a></td>
 <td>RN - Ortho/Spine FT Nights (New Graduate Nurses Welcome to Apply)</td>
 <td>📍 Oklahoma City, OK</td>
-<td>2d ago</td>
+<td>3d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/rn-orthospine-ft-nights-new-graduate-nurses-welcome-to-apply-in-oklahoma-city-ok-at-mercy-4394281053/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/mercy">Mercy</a></td>
 <td>RN - Ortho/Spine FT Nights (New Graduate Nurses Welcome to Apply)</td>
 <td>📍 Oklahoma City, OK</td>
-<td>2d ago</td>
+<td>3d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/rn-orthospine-ft-nights-new-graduate-nurses-welcome-to-apply-in-oklahoma-city-ok-at-mercy-4394281053/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/tuftsmedicine">Tufts Medicine</a></td>
-<td>Radiologic Technologist, New Grad May 2026, Sign-on Bonus Eligible</td>
-<td>📍 Lowell, OR</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/radiologic-technologist-new-grad-may-2026-sign-on-bonus-eligible-in-lowell-or-at-tufts-medicine-4358984949/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/tuftsmedicine">Tufts Medicine</a></td>
-<td>Radiologic Technologist, New Grad May 2026, Sign-on Bonus Eligible</td>
-<td>📍 Lowell, OR</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/radiologic-technologist-new-grad-may-2026-sign-on-bonus-eligible-in-lowell-or-at-tufts-medicine-4358984949/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/metrowest-medical-center">MetroWest Medical Center</a></td>
-<td>New Graduate Registered Nurse (RN) - ED</td>
-<td>📍 Framingham, MA</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-graduate-registered-nurse-rn-ed-in-framingham-ma-at-metrowest-medical-center-4375852869/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/fox-rehabilitation">FOX Rehabilitation</a></td>
-<td>Physical Therapist (New Grad Mentor Program) - Charleston, SC</td>
-<td>📍 Charleston, SC</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/physical-therapist-new-grad-mentor-program-charleston-sc-in-charleston-sc-at-fox-rehabilitation-4334222719/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/fox-rehabilitation">FOX Rehabilitation</a></td>
-<td>Physical Therapist (New Grad Mentor Program) - Charleston, SC</td>
-<td>📍 Charleston, SC</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/physical-therapist-new-grad-mentor-program-charleston-sc-in-charleston-sc-at-fox-rehabilitation-4334222719/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/fox-rehabilitation">FOX Rehabilitation</a></td>
-<td>Physical Therapist (New Grad Mentor Program) - Charleston, SC</td>
-<td>📍 Charleston, SC</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/physical-therapist-new-grad-mentor-program-charleston-sc-in-charleston-sc-at-fox-rehabilitation-4334222719/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/metrowest-medical-center">MetroWest Medical Center</a></td>
-<td>New Graduate Registered Nurse (RN) - ED</td>
-<td>📍 Framingham, MA</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-graduate-registered-nurse-rn-ed-in-framingham-ma-at-metrowest-medical-center-4375852869/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/reston-hospital-center">Reston Hospital</a></td>
-<td>New Grad RN Resident I Critical care unit</td>
-<td>📍 Reston, VA</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-grad-rn-resident-i-critical-care-unit-in-reston-va-at-reston-hospital-4406830432/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/carvana">Carvana</a></td>
-<td>Customer Care Advocate (New Graduates)</td>
-<td>📍 Tempe, AZ</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/customer-care-advocate-new-graduates-in-tempe-az-at-carvana-4404138020/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/carvana">Carvana</a></td>
-<td>Customer Care Advocate (New Graduates)</td>
-<td>📍 Tempe, AZ</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/customer-care-advocate-new-graduates-in-tempe-az-at-carvana-4404138020/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/carvana">Carvana</a></td>
-<td>Customer Care Advocate (New Graduates)</td>
-<td>📍 Tempe, AZ</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/customer-care-advocate-new-graduates-in-tempe-az-at-carvana-4404138020/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/innovations-psi">Innovations PSI</a></td>
-<td>New Grads with Previous Finance Experience or Internships</td>
-<td>📍 San Francisco, CA</td>
-<td>4d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-grads-with-previous-finance-experience-or-internships-in-san-francisco-ca-at-innovations-psi-4363044613/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/innovations-psi">Innovations PSI</a></td>
-<td>New Grads with Previous Finance Experience or Internships</td>
-<td>📍 San Francisco, CA</td>
-<td>4d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-grads-with-previous-finance-experience-or-internships-in-san-francisco-ca-at-innovations-psi-4363044613/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/innovations-psi">Innovations PSI</a></td>
-<td>New Grads with Previous Finance Experience or Internships</td>
-<td>📍 San Francisco, CA</td>
-<td>4d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-grads-with-previous-finance-experience-or-internships-in-san-francisco-ca-at-innovations-psi-4363044613/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/bgeinc">BGE, Inc.</a></td>
 <td>HOUSTON - Construction Management, New Grad</td>
 <td>📍 Houston, TX</td>
-<td>4d ago</td>
+<td>5d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/houston-construction-management-new-grad-in-houston-tx-at-bge-inc-4395392738/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
