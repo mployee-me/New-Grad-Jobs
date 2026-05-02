@@ -6,7 +6,7 @@
 ![Level: New Graduate](https://img.shields.io/badge/Level:_New_Graduate-orange?style=for-the-badge&logo=education)
 
 ### 📅 Last Updated
-**Friday, May 1, 2026 at 06:51 AM EDT**
+**Saturday, May 2, 2026 at 06:27 AM EDT**
 
 If you're graduating in 2025 or 2026, this repository is built for you.
 
@@ -95,7 +95,7 @@ color : white;
 
 ## 🎓 New Grad Jobs (All Roles)
 
-> 💼 **17** positions available
+> 💼 **20** positions available
 
 <table width="100%">
 <thead>
@@ -109,73 +109,94 @@ color : white;
 </thead>
 <tbody>
 <tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/airbnb">Airbnb</a></td>
+<td>Software Engineer, Airbnb - New Grad</td>
+<td>📍 San Francisco, CA</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/software-engineer-airbnb-new-grad-in-san-francisco-ca-at-airbnb-4409135057/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/airbnb">Airbnb</a></td>
+<td>Software Engineer, Airbnb - New Grad</td>
+<td>📍 San Francisco, CA</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/software-engineer-airbnb-new-grad-in-san-francisco-ca-at-airbnb-4409135057/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/airbnb">Airbnb</a></td>
+<td>Software Engineer, Airbnb - New Grad</td>
+<td>📍 San Francisco, CA</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/software-engineer-airbnb-new-grad-in-san-francisco-ca-at-airbnb-4409135057/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/abrazo-health-care">Abrazo Health</a></td>
 <td>Registered Nurse (RN) New Grad-Cardiac</td>
 <td>📍 Phoenix, AZ</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/registered-nurse-rn-new-grad-cardiac-in-phoenix-az-at-abrazo-health-4409020299/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/global-repair-group">Global Repair Group</a></td>
 <td>New Graduate Opportunity: Case Management Specialist</td>
 <td>📍 Chicago, IL</td>
-<td>2d ago</td>
+<td>3d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-graduate-opportunity-case-management-specialist-in-chicago-il-at-global-repair-group-4377194957/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/global-repair-group">Global Repair Group</a></td>
 <td>New Graduate Opportunity: Case Management Specialist</td>
 <td>📍 Chicago, IL</td>
-<td>2d ago</td>
+<td>3d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-graduate-opportunity-case-management-specialist-in-chicago-il-at-global-repair-group-4377194957/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/global-repair-group">Global Repair Group</a></td>
 <td>New Graduate Opportunity: Case Management Specialist</td>
 <td>📍 Chicago, IL</td>
-<td>2d ago</td>
+<td>3d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-graduate-opportunity-case-management-specialist-in-chicago-il-at-global-repair-group-4377194957/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/network-partners-group-consultants">Network Partners Group</a></td>
 <td>Life Sciences Quality Engineer - (New Grad/ Early Career)</td>
 <td>📍 Blue Bell, PA</td>
-<td>2d ago</td>
+<td>3d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/life-sciences-quality-engineer-new-grad-early-career-in-blue-bell-pa-at-network-partners-group-4408266957/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/network-partners-group-consultants">Network Partners Group</a></td>
 <td>Life Sciences Packaging Engineer - (New Grad/ Early Career)</td>
 <td>📍 Blue Bell, PA</td>
-<td>2d ago</td>
+<td>3d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/life-sciences-packaging-engineer-new-grad-early-career-in-blue-bell-pa-at-network-partners-group-4408263984/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/network-partners-group-consultants">Network Partners Group</a></td>
 <td>Life Sciences Packaging Engineer - (New Grad/ Early Career)</td>
 <td>📍 Blue Bell, PA</td>
-<td>2d ago</td>
+<td>3d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/life-sciences-packaging-engineer-new-grad-early-career-in-blue-bell-pa-at-network-partners-group-4408263984/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/network-partners-group-consultants">Network Partners Group</a></td>
 <td>Life Sciences Packaging Engineer - (New Grad/ Early Career)</td>
 <td>📍 Blue Bell, PA</td>
-<td>2d ago</td>
+<td>3d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/life-sciences-packaging-engineer-new-grad-early-career-in-blue-bell-pa-at-network-partners-group-4408263984/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/network-partners-group-consultants">Network Partners Group</a></td>
 <td>Life Sciences Quality Engineer - (New Grad/ Early Career)</td>
 <td>📍 Blue Bell, PA</td>
-<td>2d ago</td>
+<td>3d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/life-sciences-quality-engineer-new-grad-early-career-in-blue-bell-pa-at-network-partners-group-4408266957/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/network-partners-group-consultants">Network Partners Group</a></td>
 <td>Life Sciences Quality Engineer - (New Grad/ Early Career)</td>
 <td>📍 Blue Bell, PA</td>
-<td>2d ago</td>
+<td>3d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/life-sciences-quality-engineer-new-grad-early-career-in-blue-bell-pa-at-network-partners-group-4408266957/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
@@ -203,14 +224,14 @@ color : white;
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/stripe">Stripe</a></td>
 <td>Product Manager: New Grad Accelerator</td>
 <td>📍 San Francisco, CA</td>
-<td>2w ago</td>
+<td>3w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/product-manager-new-grad-accelerator-in-san-francisco-ca-at-stripe-4388239765/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/bgeinc">BGE, Inc.</a></td>
 <td>HOUSTON - Construction Management, New Grad</td>
 <td>📍 Houston, TX</td>
-<td>4w ago</td>
+<td>1mo ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/houston-construction-management-new-grad-in-houston-tx-at-bge-inc-4395394646/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
