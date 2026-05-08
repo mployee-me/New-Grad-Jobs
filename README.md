@@ -6,7 +6,7 @@
 ![Level: New Graduate](https://img.shields.io/badge/Level:_New_Graduate-orange?style=for-the-badge&logo=education)
 
 ### 📅 Last Updated
-**Thursday, May 7, 2026 at 07:25 AM EDT**
+**Friday, May 8, 2026 at 06:52 AM EDT**
 
 If you're graduating in 2025 or 2026, this repository is built for you.
 
@@ -95,7 +95,7 @@ color : white;
 
 ## 🎓 New Grad Jobs (All Roles)
 
-> 💼 **18** positions available
+> 💼 **26** positions available
 
 <table width="100%">
 <thead>
@@ -109,94 +109,150 @@ color : white;
 </thead>
 <tbody>
 <tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/morgan-&-morgan-llc">Morgan & Morgan, P.A.</a></td>
+<td>Seeking Paralegal New Grads!</td>
+<td>📍 Miami, FL</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/seeking-paralegal-new-grads-in-miami-fl-at-morgan-morgan-pa-4391074512/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/morgan-&-morgan-llc">Morgan & Morgan, P.A.</a></td>
+<td>Seeking Paralegal New Grads!</td>
+<td>📍 Miami, FL</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/seeking-paralegal-new-grads-in-miami-fl-at-morgan-morgan-pa-4391074512/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/morgan-&-morgan-llc">Morgan & Morgan, P.A.</a></td>
+<td>Seeking Paralegal New Grads!</td>
+<td>📍 Miami, FL</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/seeking-paralegal-new-grads-in-miami-fl-at-morgan-morgan-pa-4391074512/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/autel-intelligent-technology">Avant Robotics USA</a></td>
+<td>Robotics Engineer — Humanoid Robotics (New Grad)</td>
+<td>📍 Boston, MA</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/robotics-engineer-humanoid-robotics-new-grad-in-boston-ma-at-avant-robotics-usa-4410447019/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/autel-intelligent-technology">Avant Robotics USA</a></td>
+<td>Robotics Engineer — Humanoid Robotics (New Grad)</td>
+<td>📍 Boston, MA</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/robotics-engineer-humanoid-robotics-new-grad-in-boston-ma-at-avant-robotics-usa-4410447019/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/autel-intelligent-technology">Avant Robotics USA</a></td>
+<td>Robotics Engineer — Humanoid Robotics (New Grad)</td>
+<td>📍 Boston, MA</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/robotics-engineer-humanoid-robotics-new-grad-in-boston-ma-at-avant-robotics-usa-4410447019/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/j-s-held">J.S. Held LLC</a></td>
+<td>Consultant - Construction Advisory (Open to New Grads)</td>
+<td>📍 Miami, FL</td>
+<td>2d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/consultant-construction-advisory-open-to-new-grads-in-miami-fl-at-js-held-llc-4411266610/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/j-s-held">J.S. Held LLC</a></td>
+<td>Consultant - Construction Advisory (Open to New Grads)</td>
+<td>📍 Miami, FL</td>
+<td>2d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/consultant-construction-advisory-open-to-new-grads-in-miami-fl-at-js-held-llc-4411266610/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/j-s-held">J.S. Held LLC</a></td>
+<td>Consultant - Construction Advisory (Open to New Grads)</td>
+<td>📍 Miami, FL</td>
+<td>2d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/consultant-construction-advisory-open-to-new-grads-in-miami-fl-at-js-held-llc-4411266610/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/quadric.io">Quadric</a></td>
 <td>Deep Learning Compiler Engineer (New Grad)</td>
 <td>📍 US</td>
-<td>1d ago</td>
+<td>2d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/deep-learning-compiler-engineer-new-grad-in-us-at-quadric-4409206387/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/quadric.io">Quadric</a></td>
+<td>Deep Learning Compiler Engineer (New Grad)</td>
+<td>📍 US</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/deep-learning-compiler-engineer-new-grad-in-us-at-quadric-4409206387/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/quadric.io">Quadric</a></td>
 <td>Deep Learning Compiler Engineer (New Grad)</td>
 <td>📍 US</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/deep-learning-compiler-engineer-new-grad-in-us-at-quadric-4409206387/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/quadric.io">Quadric</a></td>
 <td>AI Kernel Engineer (New Grad)</td>
 <td>📍 US</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/ai-kernel-engineer-new-grad-in-us-at-quadric-4408880459/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/quadric.io">Quadric</a></td>
 <td>AI Kernel Engineer (New Grad)</td>
 <td>📍 US</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/ai-kernel-engineer-new-grad-in-us-at-quadric-4408880459/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/quadric.io">Quadric</a></td>
 <td>AI Kernel Engineer (New Grad)</td>
 <td>📍 US</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/ai-kernel-engineer-new-grad-in-us-at-quadric-4408880459/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/network-partners-group-consultants">Network Partners Group</a></td>
 <td>Life Sciences Quality Engineer - (New Grad/ Early Career)</td>
 <td>📍 Blue Bell, PA</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/life-sciences-quality-engineer-new-grad-early-career-in-blue-bell-pa-at-network-partners-group-4408266957/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/network-partners-group-consultants">Network Partners Group</a></td>
 <td>Life Sciences Packaging Engineer - (New Grad/ Early Career)</td>
 <td>📍 Blue Bell, PA</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/life-sciences-packaging-engineer-new-grad-early-career-in-blue-bell-pa-at-network-partners-group-4408263984/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/network-partners-group-consultants">Network Partners Group</a></td>
 <td>Life Sciences Packaging Engineer - (New Grad/ Early Career)</td>
 <td>📍 Blue Bell, PA</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/life-sciences-packaging-engineer-new-grad-early-career-in-blue-bell-pa-at-network-partners-group-4408263984/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/network-partners-group-consultants">Network Partners Group</a></td>
 <td>Life Sciences Quality Engineer - (New Grad/ Early Career)</td>
 <td>📍 Blue Bell, PA</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/life-sciences-quality-engineer-new-grad-early-career-in-blue-bell-pa-at-network-partners-group-4408266957/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/network-partners-group-consultants">Network Partners Group</a></td>
 <td>Life Sciences Packaging Engineer - (New Grad/ Early Career)</td>
 <td>📍 Blue Bell, PA</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/life-sciences-packaging-engineer-new-grad-early-career-in-blue-bell-pa-at-network-partners-group-4408263984/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/morgan-&-morgan-llc">Morgan & Morgan, P.A.</a></td>
-<td>Seeking Paralegal New Grads!</td>
-<td>📍 Atlanta, GA</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/seeking-paralegal-new-grads-in-atlanta-ga-at-morgan-morgan-pa-4386675969/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/morgan-&-morgan-llc">Morgan & Morgan, P.A.</a></td>
-<td>Seeking Paralegal New Grads!</td>
-<td>📍 Atlanta, GA</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/seeking-paralegal-new-grads-in-atlanta-ga-at-morgan-morgan-pa-4386675969/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/bgeinc">BGE, Inc.</a></td>
 <td>HOUSTON - Construction Management, New Grad</td>
 <td>📍 Houston, TX</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/houston-construction-management-new-grad-in-houston-tx-at-bge-inc-4395392738/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
@@ -231,7 +287,7 @@ color : white;
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/stripe">Stripe</a></td>
 <td>PhD Machine Learning Engineer, New Grad</td>
 <td>📍 San Francisco, CA</td>
-<td>1mo ago</td>
+<td>2mo ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/phd-machine-learning-engineer-new-grad-in-san-francisco-ca-at-stripe-4294963029/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 </tbody>
